@@ -1,6 +1,6 @@
 # Multiple Page Viewer Website
 
-NOTE: The scripts provided in this repo is a confidential free variant of the website and contain no sensitive or properitary information.
+NOTE: The scripts provided in this repo are a confidential free variant of the website and contain no sensitive or proprietary information.
 
 Overview
 
